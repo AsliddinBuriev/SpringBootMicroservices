@@ -8,7 +8,7 @@ spring:
     name: fraud
 
   datasource:
-    url: jdbc:postgresql://localhost:5432/ajibservices_fraud
+    url: jdbc:postgresql://localhost:5432/fraud_detection
     username: postgres
     password: password
     driver-class-name: org.postgresql.Driver
